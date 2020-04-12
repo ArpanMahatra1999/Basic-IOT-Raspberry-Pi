@@ -1,5 +1,4 @@
 # Basic-IOT-Raspberry-Pi
-
 Python code for basic Raspberry Pi operations.
 
 Tools used:
